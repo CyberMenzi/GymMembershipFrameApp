@@ -1,14 +1,16 @@
 
-package gymmembershipframeapp;
+package gymmembershipapp;
 
-import za.ac.tut.ui.GymMembershipFrame;
+import za.ac.tut.ui.GymMemberShipFrame;
 
-
-public class GymMembershipFrameApp {
+/**
+ * @author Menzi
+ */
+public class GymMembershipApp {
 
     public static void main(String[] args) {
-    
-        new GymMembershipFrame();
+       
+        new GymMemberShipFrame();
         
     }
     
